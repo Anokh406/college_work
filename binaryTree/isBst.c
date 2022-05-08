@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<malloc.h>
-
+// tree node structre
 struct node{
     int data;
     struct node* left;
