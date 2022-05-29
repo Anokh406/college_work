@@ -1,3 +1,4 @@
+#define pra "aus"
 #include "iostream"
 using namespace std;
 class Y;//forward declartion
